@@ -6,9 +6,9 @@
 [一键安装KCPTUN for SS/SSR on Linux](https://github.com/onekeyshell/kcptun_for_ss_ssr/tree/master)      
 
 ------------------------------------------------------------------------------------------------------------------------------------------
-[ACL4SSR/ACL4SSR: SSR 去广告ACL规则/SS完整GFWList规则，Telegram频道订阅地址](https://github.com/ACL4SSR/ACL4SSR)        
-[gfwlist/gfwlist: The one and only one gfwlist here](https://github.com/gfwlist/gfwlist)        
-[Releases · FQrabbit/SSTap-Rule](https://github.com/FQrabbit/SSTap-Rule/releases)      
+[ACL](https://github.com/ACL4SSR/ACL4SSR)        
+[gfwlist](https://github.com/gfwlist/gfwlist)        
+[SSTap-Rule](https://github.com/FQrabbit/SSTap-Rule/releases)      
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 [v2rayCore](https://github.com/v2ray/v2ray-core/releases)      
