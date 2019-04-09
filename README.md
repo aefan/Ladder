@@ -18,7 +18,7 @@
 [ss-android](https://github.com/shadowsocks/shadowsocks-android/releases)      
 [ssr-win](https://github.com/shadowsocksr-backup/shadowsocksr-csharp/releases)        
 [ssr-android](https://github.com/shadowsocksr-backup/shadowsocksr-android/releases)        
-[sstap1.0.9.7](https://github.com/aefan/Ladder/raw/master/SSTAP%201.0.9.7.exe)    
+[sstap1.0.9.7](https://github.com/aefan/Ladder/releases/download/sstap1.0.9.7/SSTAP.1.0.9.7.exe)        
 
 ------------------------------------------------------------------------------------------------------------------------------------------
   
