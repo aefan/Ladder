@@ -1,4 +1,4 @@
-[Xshell-Free License | Download](https://www.netsarang.com/zh/free-for-home-school/)
+[Xshell](https://www.netsarang.com/zh/free-for-home-school/)
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 [233Blog](https://2333blog.com/)      
