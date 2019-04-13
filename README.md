@@ -16,7 +16,7 @@
 [v2rayNG](https://github.com/2dust/v2rayNG/releases)      
 [ss-win](https://github.com/shadowsocks/shadowsocks-windows/releases)       
 [ss-android](https://github.com/shadowsocks/shadowsocks-android/releases)      
-[ssrr-win](https://github.com/shadowsocksrr/shadowsocksr-csharp)        
+[ssrr-win](https://github.com/shadowsocksrr/shadowsocksr-csharp/releases)        
 [ssrr-android](https://github.com/shadowsocksrr/shadowsocksr-android/releases)        
 [sstap1.0.9.7](https://github.com/aefan/Ladder/releases/tag/sstap1.0.9.7)          
 [sstapGreen1.0.9.7](https://github.com/aefan/Ladder/releases/tag/sstapGreen1.0.9.7)        
