@@ -14,6 +14,7 @@
 [v2rayCore](https://github.com/v2ray/v2ray-core/releases)      
 [v2rayN](https://github.com/2dust/v2rayN/releases)        
 [v2rayNG](https://github.com/2dust/v2rayNG/releases)      
+[SSD-win](https://github.com/TheCGDF/SSD-Windows/releases)         
 [ss-win](https://github.com/shadowsocks/shadowsocks-windows/releases)       
 [ss-android](https://github.com/shadowsocks/shadowsocks-android/releases)      
 [ssrr-win](https://github.com/shadowsocksrr/shadowsocksr-csharp/releases)        
