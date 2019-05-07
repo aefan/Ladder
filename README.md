@@ -14,7 +14,7 @@
 [SSTap-Rule](https://github.com/FQrabbit/SSTap-Rule/releases)      
 
 ----------------------------------------------------------------------------------------------------------------------------------------
-**v2ray系列**                 
+**v2ray系列客户端**                 
 [v2rayCore-全平台内核](https://github.com/v2ray/v2ray-core/releases)                
 
 [kitsunebi-android](https://github.com/eycorsican/kitsunebi-android/releases)            
@@ -22,13 +22,13 @@
 [v2rayNG-android](https://github.com/2dust/v2rayNG/releases)       
 
 ----------------------------------------------------------------------------------------------------------------------------------------
-**ss系列**               
+**ss系列客户端**               
 [SSD-win](https://github.com/TheCGDF/SSD-Windows/releases)         
 [ss-win](https://github.com/shadowsocks/shadowsocks-windows/releases)       
 [ss-android](https://github.com/shadowsocks/shadowsocks-android/releases)              
 
 ----------------------------------------------------------------------------------------------------------------------------------------
-**ssr系列**            
+**ssr系列客户端**            
 [ssrr-win](https://github.com/shadowsocksrr/shadowsocksr-csharp/releases)        
 [ssrr-android](https://github.com/shadowsocksrr/shadowsocksr-android/releases)        
 [sstap1.0.9.7-win](https://github.com/aefan/Ladder/releases/tag/sstap1.0.9.7)          
