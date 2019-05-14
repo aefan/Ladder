@@ -30,7 +30,8 @@
 ----------------------------------------------------------------------------------------------------------------------------------------
 **ssr系列客户端**            
 [ssrr-win](https://github.com/shadowsocksrr/shadowsocksr-csharp/releases)        
-[ssrr-android](https://github.com/shadowsocksrr/shadowsocksr-android/releases)        
+[ssrr-android](https://github.com/shadowsocksrr/shadowsocksr-android/releases)      
+[Pharos-android](https://github.com/PharosVip/Pharos-Android-Test)                     
 [sstap1.0.9.7-win](https://github.com/aefan/Ladder/releases/tag/sstap1.0.9.7)          
 [sstapGreen1.0.9.7-win](https://github.com/aefan/Ladder/releases/tag/sstapGreen1.0.9.7)        
 
