@@ -13,10 +13,12 @@
 [gfwlist](https://github.com/gfwlist/gfwlist)        
 [SSTap-Rule](https://github.com/FQrabbit/SSTap-Rule/releases)      
 
---------------------------------------------------------------------------------------------------------------------------------     
-**v2ray系列客户端**                 
-[v2rayCore-全平台内核](https://github.com/v2ray/v2ray-core/releases)                
+--------------------------------------------------------------------------------------------------------------------------------
+**万能系列客户端（socks、ss、ssr、v2ray都支持）**         
+[Netch-win](https://github.com/netchx/Netch/releases)           
 
+--------------------------------------------------------------------------------------------------------------------------------     
+**v2ray系列客户端**                               
 [kitsunebi-android](https://github.com/eycorsican/kitsunebi-android/releases)            
 [v2rayN-win](https://github.com/2dust/v2rayN/releases)        
 [v2rayNG-android](https://github.com/2dust/v2rayNG/releases)       
