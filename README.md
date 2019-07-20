@@ -37,11 +37,6 @@
 [Pharos-android](https://github.com/PharosVip/Pharos-Android-Test)                     
 [sstap1.0.9.7-win](https://github.com/aefan/Ladder/releases/tag/sstap1.0.9.7)          
 
---------------------------------------------------------------------------------------------------------------------------------    
-**机场**     
-[My2one](https://www.myz0ne.life/auth/register?affid=42345)        
-[忍者云](https://renzhe.cloud/auth/register?code=XEhI)         
-
 --------------------------------------------------------------------------------------------------------------------------------
 **参考聪聪页面**           
 [ss/ssr简介|聪聪博客](https://congcong0806.github.io/2018/04/20/SS/)             
